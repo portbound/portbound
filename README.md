@@ -12,7 +12,8 @@ but more often than not, I'm crafting *mediocre* solutions to problems that have
 
 ### 🛠️ What I'm Working On
 
-- 🧠 Learning Go and Neovim 
+- 🧠 Learning Go, and Neovim
+- 🧮 Practicing DSA
 - 🦙 Building [Gollama](https://github.com/portbound/go-llama) a terminal-based REPL chat app for Ollama using [Bubble Tea](https://github.com/charmbracelet/bubbletea)
 
 --- 
