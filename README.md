@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Jake
 
 > A dedicated programmer, husband, and father.
+>
+> Currently employed as a full stack .NET engineer
 
 I enjoy creating elegant solutions to complex problems—
 
