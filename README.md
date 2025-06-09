@@ -6,7 +6,7 @@
 
 I enjoy the challenge of creating elegant solutions to complex problems—
 
-though more often than not, I find myself building *acceptable* solutions to problems that have already been solved by someone smarter than me.
+though more often than not, I find myself building acceptable solutions to problems that have already been solved by someone smarter than me.
 
 **Software is my one true passion**
 
