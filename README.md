@@ -17,7 +17,6 @@ but more often than not, I'm crafting *mediocre* solutions to problems that have
 - 🦙 Building [Gollama](https://github.com/portbound/go-llama) a terminal-based REPL chat app for Ollama using [Bubble Tea](https://github.com/charmbracelet/bubbletea)
 
 --- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=portbound&layout=compact&theme=tokyonight)
 
 ### 🌱 Find me at
 
