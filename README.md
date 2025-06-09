@@ -4,9 +4,9 @@
 >
 > Currently employed as a full stack .NET engineer
 
-I enjoy creating elegant solutions to complex problems—
+I enjoy the challenge of creating elegant solutions to complex problems—
 
-but more often than not, I'm crafting *mediocre* solutions to problems that have already been solved by someone smarter than me.
+though more often than not, I find myself building *acceptable* solutions to problems that have already been solved by someone smarter than me.
 
 **Software is my one true passion**
 
