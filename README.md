@@ -21,7 +21,7 @@ though more often than not, I find myself building acceptable solutions to probl
 
 ### 💭 What I'm Into
 - ⌨️ Neovim
-- 🏋️ Gym
+- 🏋️ Getting jacked
 
 --- 
 
