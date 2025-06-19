@@ -10,15 +10,14 @@ though more often than not, I find myself building acceptable solutions to probl
 
 **Software is my one true passion**
 
-### 🛠️ Recent Projects
+### 🛠️ What I'm Working On
+- 📚 Learning Go
+- 🌐 Exploring network programming by building [TCP -> HTTP](https://github.com/portbound/tcp-to-http) from scratch
+  
+### 🗃️ Recent Projects
 - 🦙 [Gollama](https://github.com/portbound/go-llama) a terminal-based REPL chat app for Ollama using [Bubble Tea](https://github.com/charmbracelet/bubbletea)
 - 🥘 [Nibblr](https://github.com/portbound/nibblrv2) an AI enhanced cookbook and pantry app
 - 🐦️ [Chirpy](https://github.com/portbound/bootdev-httpserver) http server for the backend of a twitter clone
-
-
-### 📚️ What I'm Working On
-- 🧠 Learning Go
-- Building TCP -> HTTP 
 
 ### 💭 What I'm Into
 - ⌨️ Neovim
