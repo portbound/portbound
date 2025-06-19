@@ -18,6 +18,7 @@ though more often than not, I find myself building acceptable solutions to probl
 
 ### 📚️ What I'm Working On
 - 🧠 Learning Go
+- Building TCP -> HTTP 
 
 ### 💭 What I'm Into
 - ⌨️ Neovim
