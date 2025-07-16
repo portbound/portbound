@@ -4,7 +4,7 @@
 >
 > Currently employed as a full stack .NET engineer
 
-I strive to create elegant solutions to complex problems—though more often than not, I find myself building mediocre solutions to problems that have already been solved by someone smarter than me.
+I strive to create elegant solutions to complex problems—though more often than not, I find myself building primitive solutions to problems that have already been solved by someone smarter than me.
 
 ### 🛠️ What I'm Working On
 - 📚 Learning Go
