@@ -12,12 +12,12 @@ though more often than not, I find myself building mediocre solutions to problem
 
 ### 🛠️ What I'm Working On
 - 📚 Learning Go
-- 🌐 Exploring network programming by building [TCP -> HTTP](https://github.com/portbound/tcp-to-http) from scratch
+- 📦 [go-fs](https://github.com/portbound/go-fs) building my own file storage solution to save a couple bucks by canceling my Dropbox subscription
   
 ### 🗃️ Recent Projects
+- 🌐 [TCP -> HTTP](https://github.com/portbound/tcp-to-http) a primitive implementation of TCP -> HTTP/1.1 from scratch with the Go stdlib
 - 🦙 [Gollama](https://github.com/portbound/go-llama) a terminal-based REPL chat app for Ollama using [Bubble Tea](https://github.com/charmbracelet/bubbletea)
 - 🥘 [Nibblr](https://github.com/portbound/nibblrv2) an AI enhanced cookbook and pantry app
-- 🐦️ [Chirpy](https://github.com/portbound/bootdev-httpserver) http server for the backend of a twitter clone
 
 ### 💭 What I'm Into
 - ⌨️ Neovim
