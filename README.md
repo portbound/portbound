@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jake
+# 👋 Hi, I'm jake
 
 > A dedicated programmer, husband, and father.
 >
