@@ -8,12 +8,10 @@ I try my best to create elegant solutions to complex problems, though more often
 
 ### 🛠️ What I'm Working On
 - 📚 Learning Go
-- 📦 [go-fs](https://github.com/portbound/go-fs) building my own file storage solution to save a couple bucks by canceling my Dropbox subscription
   
 ### 🗃️ Recent Projects
+- 📦 [go-fs](https://github.com/portbound/go-fs) building my own file storage solution to save a couple bucks by canceling my Dropbox subscription
 - 🌐 [TCP -> HTTP](https://github.com/portbound/tcp-to-http) a primitive implementation of TCP -> HTTP/1.1 from scratch with the Go stdlib
-- 🦙 [Gollama](https://github.com/portbound/go-llama) a terminal-based REPL chat app for Ollama using [Bubble Tea](https://github.com/charmbracelet/bubbletea)
-- 🥘 [Nibblr](https://github.com/portbound/nibblrv2) an AI enhanced cookbook and pantry app
 
 ### 💭 What I'm Into
 - ⌨️ Neovim
