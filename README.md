@@ -1,6 +1,6 @@
 # 👋 Hi, I'm jake
 
-> A programmer, a husband, and a father
+> A programmer, husband, and father
 >
 > Currently employed as a .NET engineer
 
