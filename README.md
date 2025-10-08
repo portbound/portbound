@@ -8,7 +8,7 @@ I try my best to create elegant solutions to complex problems, though more often
 
 ### 🛠️ What I'm Working On
 - 📚 Learning Go
-- 📚 Learning more about network programming through [ProtoHackers](https://protohackers.com/) challenges
+- 📚 Learning more about network programming through [Protohackers](https://protohackers.com/) challenges
 ### 🗃️ Recent Projects
 - 📦 [go-fs](https://github.com/portbound/go-fs) building my own file storage solution to save a couple bucks by canceling my Dropbox subscription
 - 🌐 [TCP -> HTTP](https://github.com/portbound/tcp-to-http) a primitive implementation of TCP -> HTTP/1.1 from scratch with the Go stdlib
