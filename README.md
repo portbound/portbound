@@ -14,7 +14,7 @@ I try my best to create elegant solutions to complex problems, though more often
 
 ### 💭 What I'm Into
 - ⌨️ Neovim
-- 🏋️ Setting PRs
+- 🏋️ Picking up heavy things and putting them back down 
 
 --- 
 
