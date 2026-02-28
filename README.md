@@ -4,7 +4,7 @@
 >
 > Currently employed as a .NET engineer
 
-I try my best to create elegant solutions to complex problems, though more often than not, I find myself building elementary solutions to problems that have already been solved by someone smarter than me.
+I try to come up with simple solutions to complex problems, but more often than not I end up with overengineered solutions to problems that have already been solved by someone smarter than me.
 
 ### 🛠️ What I'm Working On
 - Learning more about network programming through [Protohackers](https://protohackers.com/) challenges and [Network Programming with Go by Adam Woodbeck](https://www.amazon.com/Network-Programming-Go-Adam-Woodbeck/dp/1718500882)
