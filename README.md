@@ -1,10 +1,10 @@
 # 👋 Hi, I'm jake
 
 > A programmer, husband, and father
->
-> Currently employed as a .NET engineer
 
 I try to come up with simple solutions to complex problems, but more often than not I end up with overengineered solutions to problems that have already been solved by someone smarter than me.
+
+Currently employed as a .NET engineer. 
 
 ### 🛠️ What I'm Working On
 - Learning more about network programming through [Protohackers](https://protohackers.com/) challenges and [Network Programming with Go by Adam Woodbeck](https://www.amazon.com/Network-Programming-Go-Adam-Woodbeck/dp/1718500882)
