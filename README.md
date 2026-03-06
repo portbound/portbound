@@ -7,6 +7,7 @@ I try to come up with simple solutions to complex problems, but more often than 
 Currently employed as a .NET engineer. 
 
 ### 🛠️ What I'm Working On
+- Building out a CI/CD pipeline for my side projects via Github actions w/ Docker on an OCI instance.    
 - Learning more about network programming through [Protohackers](https://protohackers.com/) challenges and [Network Programming with Go by Adam Woodbeck](https://www.amazon.com/Network-Programming-Go-Adam-Woodbeck/dp/1718500882)
 
 ### 🗃️ Recent Side Projects
