@@ -7,7 +7,7 @@ I try to come up with simple solutions to complex problems, but more often than 
 Currently employed as a .NET engineer. 
 
 ### 🛠️ What I'm Working On
-- Working on [shuttle](https://github.com/portbound/shuttle), a lightweight, load balanced, Event Bus built on gRPC  
+- Working on [shuttle](https://github.com/portbound/shuttle), a lightweight, load balanced, event bus built on gRPC  
 - Learning more about network programming through [Protohackers](https://protohackers.com/) challenges and [Network Programming with Go by Adam Woodbeck](https://www.amazon.com/Network-Programming-Go-Adam-Woodbeck/dp/1718500882)
 
 ### 🗃️ Recent Side Projects
