@@ -1,10 +1,7 @@
 # 👋 Hi, I'm jake
 
-> A programmer, husband, and father
-
-I try to come up with simple solutions to complex problems, but more often than not I end up with overengineered solutions to problems that have already been solved by someone smarter than me.
-
-Currently employed as a .NET engineer. 
+Pragmatist by nature, over-thinker by habit, husband and father by choice. 
+I love distributed systems. 
 
 ### 🛠️ What I'm Working On
 - Working on [shuttle](https://github.com/portbound/shuttle), a lightweight, event bus built on gRPC  
